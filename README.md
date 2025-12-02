@@ -1,14 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on web development project
-- 🌱 I’m currently learning Full Stack Web Development with Python, Django & React
-- 👯 I’m looking to collaborate on web development project
-- 🤔 I’m looking for help with web development
-- 💬 Ask me about web development
-- 📫 How to reach me: Google "John Maruf"
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love Programming
-  
+## 
 # 💫 About Me:
 Hey, I’m John!<br>I’m currently studying BSc in Computer Science and Engineering at Daffodil International University. I have a strong interest in programming and enjoy learning new things every day. Right now, I’m focusing on web development and working to improve my skills by building projects and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me! 
 
