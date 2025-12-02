@@ -1,4 +1,3 @@
-## 
 # 💫 About Me:
 Hey, I’m John!<br>I’m currently studying BSc in Computer Science and Engineering at Daffodil International University. I have a strong interest in programming and enjoy learning new things every day. Right now, I’m focusing on web development and working to improve my skills by building projects and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me! 
 
