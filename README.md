@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif)
+![MasterHead]([https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif))
 <h1 align="center">Hey, I'm John</h1>
 <h3 align="center">I’m currently studying BSc in Computer Science and Engineering at Daffodil International University. I have a strong interest in programming and enjoy learning new things every day. Right now, I’m focusing on web development and working to improve my skills by building projects and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
