@@ -21,6 +21,10 @@
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00C853&border_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf&background=000000&border=FFFFFF&stroke=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
