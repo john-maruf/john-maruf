@@ -22,9 +22,14 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf&background=000000&border=FFFFFF&stroke=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00C853&border_color=FFFFFF" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf&background=000000&border=FFFFFF&stroke=FFFFFF&ring=00C853&fire=00C853&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150" />
+</div>
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
