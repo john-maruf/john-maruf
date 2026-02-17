@@ -25,32 +25,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf&background=000000&border=FFFFFF&stroke=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 </p>
-name: Generate Snake
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs every day
-  workflow_dispatch:       # allow manual run
-  push:
-    branches:
-      - main
+## 🐍 Contribution Snake
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: john-maruf
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
