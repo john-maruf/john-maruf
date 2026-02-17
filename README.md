@@ -33,6 +33,6 @@
 
 ---
 
-📮 **Email me:**  📲 **marufakterjon@gmail.com**
+📧 **Email me:**  📲 **marufakterjon@gmail.com**
 
 ---
