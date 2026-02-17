@@ -21,11 +21,6 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf&background=000000&border=FFFFFF&stroke=FFFFFF&ring=F97316&fire=F97316&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
