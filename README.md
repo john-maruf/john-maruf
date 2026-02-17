@@ -23,11 +23,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=F97316" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="150" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf&background=000000&ring=F97316&fire=F97316&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150" />
+
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=F97316&border_color=30363d" />
+
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=30363d" />
+
+  <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com?user=john-maruf&theme=black-ice&hide_border=false" />
+
 </div>
 
 
