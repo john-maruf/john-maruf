@@ -24,9 +24,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-maruf&theme=dark&background=000000&ring=F97316&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
-
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=john-maruf&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+  </a>
 </div>
 
 
