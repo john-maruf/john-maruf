@@ -24,8 +24,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=john-maruf&theme=dark&background=000000&ring=F97316&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=john-maruf&theme=dark&background=000000&ring=F97316&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
+
 </div>
+
 
 
 <div align="center">
