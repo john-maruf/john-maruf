@@ -24,6 +24,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=john-maruf&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=john-maruf&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
+  <a href="https://streak-stats.demolab.com/?user=john-maruf">
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=john-maruf&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
   </a>
 </div>
