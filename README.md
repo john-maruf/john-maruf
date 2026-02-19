@@ -35,5 +35,6 @@
 ---
 
 📧 **Email me:**  📲 **marufakterjon@gmail.com**
+                   📲 **john-maruf@outlook.com**
 
 ---
