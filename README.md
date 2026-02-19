@@ -34,7 +34,6 @@
 
 ---
 
-📧 **Email me:**  📲 **marufakterjon@gmail.com**
-                   📲 **john-maruf@outlook.com**
+📧 **Email me:**  📲 **marufakterjon@gmail.com** / **john-maruf@outlook.com**
 
 ---
