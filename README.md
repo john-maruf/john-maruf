@@ -24,20 +24,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=john-maruf
-    &theme=dark
-    &background=000000
-    &ring=F97316
-    &fire=F97316
-    &currStreakNum=FFFFFF
-    &currStreakLabel=FFFFFF
-    &sideNums=FFFFFF
-    &sideLabels=FFFFFF
-    &dates=AAAAAA"
-    height="160"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=john-maruf&theme=dark&background=000000&ring=F97316&fire=F97316&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
 </div>
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
