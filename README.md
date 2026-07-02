@@ -45,3 +45,9 @@
 
 </p>
 
+## 💬 Quote
+
+> "Code. Learn. Build. Repeat."
+
+⭐ If you like my projects, don't forget to star them!
+
