@@ -34,7 +34,24 @@
   </a>
 </div>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-snake.svg"
+  />
+</picture>
+</p>
 ---
 
 📧 **Email me:**  📲 **marufakterjon@gmail.com** / **john-maruf@outlook.com**
