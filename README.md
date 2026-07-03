@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm John</h1>
 <h3 align="center">I’m currently studying BSc in Computer Science and Engineering at Daffodil International University. I have a strong interest in programming and enjoy learning new things every day. Right now, I’m focusing on web development and working to improve my skills by building projects and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me!</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Web+Development;Python;Django;React;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=%23003140&center=true&vCenter=true&width=600&lines=Web+Development;Python;Django;React;" alt="Typing SVG"/>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
