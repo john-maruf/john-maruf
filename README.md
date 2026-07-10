@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ꭻohn</h1>
+<h1 align="center">Hey, I'm jOHN</h1>
 <h3 align="center">I’m currently studying BSc in Computer Science and Engineering at Daffodil International University. I have a strong interest in programming and enjoy learning new things every day. Right now, I’m focusing on web development and working to improve my skills by building projects and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me!</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=%231ABCFE&center=true&vCenter=true&width=600&lines=Web+Development;Python;Django;React;" alt="Typing SVG"/>
