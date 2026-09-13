@@ -1,234 +1,73 @@
-<h1 align="center">Hey, I'm MR_jOHN</h1>
-
-<h3 align="center">
-I’m currently studying BSc in Computer Science and Engineering at Daffodil International University.
-I have a strong interest in programming and enjoy learning new things every day.
-Right now, I’m focusing on web development and working to improve my skills by building projects
-and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me!
-</h3>
-
+<h1 align="center">Hey, I'm MR_jOHN</h1> 
+<h3 align="center">I’m currently studying BSc in Computer Science and Engineering at Daffodil International University. I have a strong interest in programming and enjoy learning new things every day. Right now, I’m focusing on web development and working to improve my skills by building projects and exploring modern technologies. I’m passionate about tech and excited about where this journey will take me!</h3>
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=%231ABCFE&center=true&vCenter=true&width=600&lines=Web+Development;Python;Django;React;"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=%231ABCFE&center=true&vCenter=true&width=600&lines=Web+Development;Python;Django;React;" alt="Typing SVG"/>
 </p>
 
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif"
->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=john-maruf&label=Profile%20views&color=0e75b6&style=flat"
-    alt="john-maruf"
-  />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-maruf&label=Profile%20views&color=0e75b6&style=flat" alt="john-maruf" /> </p>
 
----
-
-## 🌐 Connect with me
-
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/marufakterjohn" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-    alt="marufakterjohn"
-    height="30"
-    width="40"
-  />
-</a>
-
-<a href="https://instagram.com/mr_johnmaruf" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="mr_johnmaruf"
-    height="30"
-    width="40"
-  />
-</a>
-
-<a href="https://www.youtube.com/@john_thebot" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-    alt="@john_thebot"
-    height="30"
-    width="40"
-  />
-</a>
-
-<a href="https://x.com/mrjohnmaruf" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    alt="mrjohnmaruf"
-    height="30"
-    width="40"
-  />
-</a>
-
-<a href="https://linkedin.com/in/johnmaruf" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="johnmaruf"
-    height="30"
-    width="40"
-  />
-</a>
-
+<a href="https://fb.com/marufakterjohn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marufakterjohn" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_johnmaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_johnmaruf" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@john_thebot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@john_thebot" height="30" width="40" /></a>
+<a href="https://x.com/mrjohnmaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marufakterjon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johnmaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnmaruf" height="30" width="40" /></a>
 </p>
 
----
-
-## 🛠️ Languages and Tools
-
+<h3 align="left">🛠️ Languages and Tools:</h3> 
 <p align="left">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/django.svg"
-    alt="django"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="40"
-    height="40"
-  />
-</a>
-
-</p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&theme=dark&hide_border=false"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&theme=dark&langs_count=6&hide_border=false"
-    height="150"
-    alt="Top Languages"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=john-maruf&theme=dark&hide_border=false"
-    height="150"
-    alt="GitHub Streak"
-  />
-
+    <img src="https://github-readme-stats.vercel.app/api?username=john-maruf&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-maruf&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
+  <a href="https://streak-stats.demolab.com/?user=john-maruf">
+    <img src="https://streak-stats.demolab.com/?user=john-maruf&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
+  </a>
 </div>
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-
 <picture>
-
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-snake.svg"
   />
-
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/john-maruf/john-maruf/output/github-snake.svg"
   />
-
 </picture>
-
 </p>
+---
+
+📧 **Email me:**  📲 **marufakterjon@gmail.com** / **john-maruf@outlook.com**
 
 ---
 
-## 📧 Contact
+## 📈 Contribution Graph
 
 <p align="center">
 
-📧 **Email:**  
-**marufakterjon@gmail.com** / **john-maruf@outlook.com**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=john-maruf&theme=tokyo-night"/>
 
 </p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=john-maruf&theme=tokyo-night"
-  alt="Contribution Graph"
-/>
-
-</p>
-
----
 
 ## 💬 Quote
 
-<p align="center">
-
-> **"Code. Learn. Build. Repeat."**
-
-</p>
-
----
-
-<p align="center">
+> "Code. Learn. Build. Repeat."
 
 ⭐ If you like my projects, don't forget to star them!
-
-</p>
